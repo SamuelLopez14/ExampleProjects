@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetTester\\SpreadSheetTester.csproj": {}
+  },
+  "projects": {
+    "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetEngine\\SpreadSheetEngine.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetEngine\\SpreadSheetEngine.csproj",
+        "projectName": "SpreadSheetEngine",
+        "projectPath": "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetEngine\\SpreadSheetEngine.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetTester\\SpreadSheetTester.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetTester\\SpreadSheetTester.csproj",
+        "projectName": "SpreadSheetTester",
+        "projectPath": "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetTester\\SpreadSheetTester.csproj",
+        "packagesPath": "C:\\Users\\eveer\\.nuget\\packages\\",
+        "outputPath": "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetTester\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eveer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetEngine\\SpreadSheetEngine.csproj": {
+                "projectPath": "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetEngine\\SpreadSheetEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

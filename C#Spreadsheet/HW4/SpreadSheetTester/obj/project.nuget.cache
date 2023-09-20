@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mLNYScNQvAWcH3ee8N2k8CTRNtfNsUvxiIGO4/8vlxMTZBLcoLKD3806Iun2lWJkcMMMLNHPZRKW7S67/qmu+w==",
+  "success": true,
+  "projectFilePath": "E:\\JobSearchRelatedItems\\Github\\ExampleProjects\\C#Spreadsheet\\HW4\\SpreadSheetTester\\SpreadSheetTester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eveer\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\eveer\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\eveer\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\eveer\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\eveer\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

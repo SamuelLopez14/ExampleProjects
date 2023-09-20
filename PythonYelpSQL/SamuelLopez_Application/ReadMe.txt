@@ -1,0 +1,2 @@
+This project uses a SQL server in order to parse yelp data based on input from a user via the UI component. The data was originally in 
+a JSON file, and the parseAndInsertM2.py file was used to parse and add the data to the SQL server.
